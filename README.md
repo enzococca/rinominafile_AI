@@ -25,7 +25,7 @@ File Renamer AI è un'applicazione desktop che utilizza l'intelligenza artificia
    Assicurati di avere Python installato sul tuo sistema. Puoi scaricarlo da [python.org](https://www.python.org/downloads/).
 
 3. **Avvio del programma**:
-   - Fai doppio clic sul file `run_program.bat`.
+   - Fai doppio clic sul file `rinomina.bat`.
    - Questo script batch farà quanto segue:
      1. Verificherà la presenza di Python sul tuo sistema.
      2. Creerà un ambiente virtuale Python.
